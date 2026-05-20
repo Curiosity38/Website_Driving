@@ -1,0 +1,15 @@
+.DS_Store
+.env*.local
+.next/
+.data/
+out/
+output/
+app/_api_disabled/
+node_modules/
+package-lock.json
+tsconfig.tsbuildinfo
+marketing-copy.md
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
